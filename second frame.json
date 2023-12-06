@@ -1,0 +1,23 @@
+{
+  "name": "good-recipe1",
+  "cookbook": "cb1",
+  "latestVersion": "0.1.0",
+  "ids": { "local": "" },
+
+          {
+            "ID": "scripOut",
+            "Coin": "testcoin29",
+            "Count": "333"
+          }
+         {
+            "ID": "scripOut",
+            "Coin": "testcoin444",
+            "Count": "334"
+          }
+
+
+ "remotes": {},
+  "targetVersions": {
+    "local": "0.1.0",
+    "testnet": "0.1.0"
+  }
